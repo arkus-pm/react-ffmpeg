@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/react-ffmpeg/static/css/main.d1b05096.chunk.css",
-    "main.js": "/react-ffmpeg/static/js/main.68184fff.chunk.js",
-    "main.js.map": "/react-ffmpeg/static/js/main.68184fff.chunk.js.map",
+    "main.js": "/react-ffmpeg/static/js/main.f92121df.chunk.js",
+    "main.js.map": "/react-ffmpeg/static/js/main.f92121df.chunk.js.map",
     "runtime-main.js": "/react-ffmpeg/static/js/runtime-main.12c4897d.js",
     "runtime-main.js.map": "/react-ffmpeg/static/js/runtime-main.12c4897d.js.map",
-    "static/js/2.b2753f2c.chunk.js": "/react-ffmpeg/static/js/2.b2753f2c.chunk.js",
-    "static/js/2.b2753f2c.chunk.js.map": "/react-ffmpeg/static/js/2.b2753f2c.chunk.js.map",
+    "static/js/2.70d67bc7.chunk.js": "/react-ffmpeg/static/js/2.70d67bc7.chunk.js",
+    "static/js/2.70d67bc7.chunk.js.map": "/react-ffmpeg/static/js/2.70d67bc7.chunk.js.map",
     "index.html": "/react-ffmpeg/index.html",
-    "precache-manifest.c29da6d3e8f28266cb70effe033c9058.js": "/react-ffmpeg/precache-manifest.c29da6d3e8f28266cb70effe033c9058.js",
+    "precache-manifest.0d52227628d40daa0ea5c20a1676a7c9.js": "/react-ffmpeg/precache-manifest.0d52227628d40daa0ea5c20a1676a7c9.js",
     "service-worker.js": "/react-ffmpeg/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/react-ffmpeg/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.b2753f2c.chunk.js.LICENSE.txt": "/react-ffmpeg/static/js/2.b2753f2c.chunk.js.LICENSE.txt"
+    "static/js/2.70d67bc7.chunk.js.LICENSE.txt": "/react-ffmpeg/static/js/2.70d67bc7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.12c4897d.js",
-    "static/js/2.b2753f2c.chunk.js",
+    "static/js/2.70d67bc7.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.68184fff.chunk.js"
+    "static/js/main.f92121df.chunk.js"
   ]
 }
