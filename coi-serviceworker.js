@@ -113,4 +113,3 @@ if (typeof window === 'undefined') {
         }
     })();
 }
-}
